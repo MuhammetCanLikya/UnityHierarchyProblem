@@ -8,4 +8,5 @@ I saved and exited the project and saw that there are no changes to push in the 
 But if I create script file github app detects it and tries to push it.
 
 Because of this problem, when you upload the project, you will not be able to see the objects in the red area in the photo.
+
 ![image](https://github.com/MuhammetCanLikya/UnityHierarchyProblem/assets/96202886/87eaf980-1975-4e02-858a-1403d2600559)
